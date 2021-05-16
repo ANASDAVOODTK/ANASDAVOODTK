@@ -16,5 +16,5 @@ Hi, I'm [ANAS DAVOOD TK](https://anasdavood.tk/), Information Technology Enginee
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://anasdavood.tk/);
+- 📫 How to reach me: [@anasdavoodtk](https://anasdavood.tk/);
 - 📝 [Resume](https://anasdavood.tk/cv.pdf)
