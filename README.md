@@ -25,5 +25,5 @@ Hi, I'm [ANAS DAVOOD TK](https://anasdavood.tk/), Information Technology Enginee
 
 ## Github Stats   
 <img src="https://github-readme-stats.vercel.app/api?username=ANASDAVOODTK&show_icons=true&count_private=true&hide_border=true"/>
-<img align="right" alt="GIF" src="https://github.com/ANASDAVOODTK/ANASDAVOODTK/blob/main/man.gif?raw=true" width="500" height="320"  margin-top="-25px" />
+<img align="right" alt="GIF" src="https://github.com/ANASDAVOODTK/ANASDAVOODTK/blob/main/man.gif?raw=true" width="500" height="320"  margin-top="-250px" />
  
