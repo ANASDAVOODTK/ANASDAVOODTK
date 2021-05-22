@@ -15,12 +15,14 @@
 Hi, I'm [ANAS DAVOOD TK](https://anasdavood.tk/), Information Technology Engineer based in Kerala. I'm a passionate Android & web developer with 4 Years of Experience as well as I'm a Cybersecurity enthusiast. I have developed and designed a wide variety of apps ranging from social media, finance and accounting to medical applications
 
 
-  <img align="right" alt="GIF" src="https://github.com/ANASDAVOODTK/ANASDAVOODTK/blob/main/man.gif?raw=true" width="500" height="320" />
+
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@anasdavoodtk](https://anasdavood.tk/);
 - 📝 [Resume](https://anasdavood.tk/cv.pdf)
 
+<img align="right" alt="GIF" src="https://github.com/ANASDAVOODTK/ANASDAVOODTK/blob/main/man.gif?raw=true" width="500" height="320" />
+
 ## Github Stats   
-align="center"><img src="https://github-readme-stats.vercel.app/api?username=ANASDAVOODTK&show_icons=true&count_private=true&hide_border=true" align="center"  
+<img src="https://github-readme-stats.vercel.app/api?username=ANASDAVOODTK&show_icons=true&count_private=true&hide_border=true"/>
  
