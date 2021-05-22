@@ -21,8 +21,9 @@ Hi, I'm [ANAS DAVOOD TK](https://anasdavood.tk/), Information Technology Enginee
 - 📫 How to reach me: [@anasdavoodtk](https://anasdavood.tk/);
 - 📝 [Resume](https://anasdavood.tk/cv.pdf)
 
-<img align="right" alt="GIF" src="https://github.com/ANASDAVOODTK/ANASDAVOODTK/blob/main/man.gif?raw=true" width="500" height="320" />
+
 
 ## Github Stats   
-<img src="https://github-readme-stats.vercel.app/api?username=ANASDAVOODTK&show_icons=true&count_private=true&hide_border=true" margintop="-100dp"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ANASDAVOODTK&show_icons=true&count_private=true&hide_border=true"/>
+<img align="right" alt="GIF" src="https://github.com/ANASDAVOODTK/ANASDAVOODTK/blob/main/man.gif?raw=true" width="500" height="320" />
  
