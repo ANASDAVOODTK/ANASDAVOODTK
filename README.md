@@ -11,11 +11,6 @@
 
 
 
-
-Hi, I'm [ANAS DAVOOD TK](https://anasdavoodtk.netlify.app/), an Information Technology Engineer based in Kerala. I'm a passionate Android & web developer with 4 Years of Experience as well as I'm a Cybersecurity enthusiast. I have developed and designed a wide variety of apps ranging from social media, finance, and accounting to medical applications
-
-
-
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@anasdavoodtk](https://anasdavoodtk.netlify.app/);
